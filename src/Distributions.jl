@@ -68,6 +68,7 @@ export
     Biweight,
     Categorical,
     Cauchy,
+    Chernoff,
     Chi,
     Chisq,
     Cosine,
@@ -307,7 +308,7 @@ information.
 Supported distributions:
 
     Arcsine, Bernoulli, Beta, BetaBinomial, BetaPrime, Binomial, Biweight,
-    Categorical, Cauchy, Chi, Chisq, Cosine, DiagNormal, DiagNormalCanon,
+    Categorical, Cauchy, Chernoff, Chi, Chisq, Cosine, DiagNormal, DiagNormalCanon,
     Dirichlet, DiscreteUniform, DoubleExponential, EdgeworthMean,
     EdgeworthSum, EdgeworthZ, EmpiricalUnivariateDistribution, Erlang,
     Epanechnikov, Exponential, FDist, FisherNoncentralHypergeometric,
