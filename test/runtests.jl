@@ -19,6 +19,7 @@ tests = [
     "mvnormal",
     "mvlognormal",
     "mvtdist",
+    "chernoff",
     "kolmogorov",
     "edgeworth",
     "matrix",
